@@ -1,0 +1,17 @@
+C:\Users\Omar\Documents\Ejercicios\ejercicio2\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\Omar\Documents\Ejercicios\ejercicio2\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Omar\Documents\Ejercicios\ejercicio2\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Omar\Documents\Ejercicios\ejercicio2\CapaNegocio\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\Omar\Documents\Ejercicios\ejercicio2\CapaNegocio\bin\Debug\net8.0\Entidades.dll
+C:\Users\Omar\Documents\Ejercicios\ejercicio2\CapaNegocio\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Omar\Documents\Ejercicios\ejercicio2\CapaNegocio\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\Omar\Documents\Ejercicios\ejercicio2\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Omar\Documents\Ejercicios\ejercicio2\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Documents\Ejercicios\ejercicio2\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Omar\Documents\Ejercicios\ejercicio2\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Omar\Documents\Ejercicios\ejercicio2\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Documents\Ejercicios\ejercicio2\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\Omar\Documents\Ejercicios\ejercicio2\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\Omar\Documents\Ejercicios\ejercicio2\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\Omar\Documents\Ejercicios\ejercicio2\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Omar\Documents\Ejercicios\ejercicio2\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
